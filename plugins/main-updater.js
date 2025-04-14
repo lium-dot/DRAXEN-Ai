@@ -20,7 +20,7 @@ cmd({
     await reply("```🔍 Checking for DRAXEN-Ai updates...```\n");  
       
     // Get latest commit from GitHub  
-    const { data: commitData } = await axios.get("https://api.github.com/repos/XdTechPro/KHAN-MD/commits/main");  
+    const { data: commitData } = await axios.get("https://api.github.com/repos/dullar255/DRAXEN-Ai/commits/main");  
     const latestCommitHash = commitData.sha;  
 
     // Get current commit hash  
@@ -40,7 +40,7 @@ cmd({
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
-    const { data: zipData } = await axios.get("https://github.com/XdTechPro/KHAN-MD/archive/main.zip", { responseType: "arraybuffer" });  
+    const { data: zipData } = await axios.get("https://github.com/dullar255/DRAXEN-Ai/archive/main.zip", { responseType: "arraybuffer" });  
     fs.writeFileSync(zipPath, zipData);  
 
     await reply("```📦 Extracting the latest code...```\n");  
