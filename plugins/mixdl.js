@@ -199,7 +199,7 @@ cmd({
         document: { url: apkPath },
         mimetype,
         fileName: `${appname}.apk`,
-        caption: `*📱 App Name:* ${appname}\n*👨‍💻 Developer:* ${developer}\n*🔗 Downloaded via 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`,
+        caption: `*📱 App Name:* ${appname}\n*👨‍💻 Developer:* ${developer}\n*🔗 Downloaded via DRAXEN Ai 🤎*`,
         jpegThumbnail: appicon
           ? await axios({ url: appicon, responseType: "arraybuffer" }).then(res => res.data).catch(() => null)
           : null,
@@ -208,8 +208,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363333032882285@newsletter",
-            newsletterName: "𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃",
+            newsletterJid: "0029Vb4vbKF6xCSMEFopxc10@newsletter",
+            newsletterName: "DRAXEN-Ai",
             serverMessageId: 143,
           },
         },
