@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("SHEIKH-ALI-MD~", '');
+const sessdata = config.SESSION_ID.replace("DRAXEN-Ai~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,8 +112,8 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `┏━━━━━━━━━━━━━━ \n┃𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃\n┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒\n┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 \n┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥\n┗━━━━━━━━━━━━━━━ \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰² ⚡𖥘\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴏᴡɴᴇʀ = https://wa.me/923143702270 \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@sheikh-ali-2412?si=jtHyERObmqci0YEo  \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡ `;
-    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/chcyQbkP/Snapchat-850352165.jpg` }, caption: up })
+  let up = `┏━━━━━━━━━━━━━━ \n┃DRAXEN-Ai\n┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒\n┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 \n┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥\n┗━━━━━━━━━━━━━━━ \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ DRAXEN•••²⁴⁰² ⚡𖥘\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴏᴡɴᴇʀ = https://wa.me/255716945972 \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴡʜᴀᴛsᴀᴘᴘ = 0029Vb4vbKF6xCSMEFopxc10\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/dullar255/DRAXEN-Ai \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG  \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ DRAXEN Ai 🤎 `;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/tmmvub.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -198,7 +198,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('923143702270', '923191089077', '923146190772');
+    const jawad = ('255716945971', '255756715126', '243850148852');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -245,7 +245,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("923143702270")){
+  if(senderNumber.includes("255716945971")){
   if(isReact) return
   m.react("🦋")
    }
@@ -768,7 +768,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("SHEIKH-ALI-MD STARTED ✅");
+  res.send("DRAXEN-Ai STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
