@@ -28,7 +28,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• Please report to all these scammers's numbers.
 ┃◈┃• If you have more scammers's number so contact me. I will add in my bot.
-┃◈┃• Owner: https://api.whatsapp.com/send?phone=923143702270&text=Hello+𓄂.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼+♡+I+have+scammer's+number.+Please+add+his/her+number+in+your+bot🥰.
+┃◈┃• Owner: https://api.whatsapp.com/send?phone=923143702270&text=Hello+DRAXEN+Ai+🤎+I+have+scammer's+number.+Please+add+his/her+number+in+your+bot🥰.
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
