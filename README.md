@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=SHEIKH-ALI-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=DRAXEN-Ai" alt="Typing SVG" /></a>
   </p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -6,16 +6,16 @@
 
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=sʜᴇɪɪᴋʜ+ᴀʟɪ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=DRAXEN+Ai+WHATSAPP+BOT+DEVELOPAR" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHEIKH%20ALI%20AHMAD%20KING%20OF%20KINGS%20OWNER%20ALI%20AHMAD%20AHMAD♥️&image=https://i.ibb.co/yc3j9Qdw/8490.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH-ALI-2402&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DRAXEN%20Ai%20%20%20OF%20%20OWNER%20DRAXEN%20%20%♥️&image=https://files.catbox.moe/tmmvub.jpg?v=4&backgroundColor=%23ecf0f1&github=DRAXEN-Ai-2402&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+DRAXEN-Ai...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+DRAXEN++...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+DRAXEN-Ai-..."
 
 <br>
 
@@ -23,31 +23,31 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHEIKH-ALI-2402%2FSHEIKH-ALI-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/SHEIKH-ALI-2402?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH-ALI-2402label=Followers&style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SHEIKH-ALI-2402/SHEIKH-ALI-MD?&style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHEIKH-ALI-2402/SHEIKH-ALI-MD?style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHEIKH-ALI-2402/SHEIKH-ALI-MD?label=Watching&style=social"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdullar255%2FDRAXEN-Ai&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+ <a href="https://github.com/dullar255?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/dullah255label=Followers&style=social"></a>
+<a href="https://github.com/dullar255/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/dullar255/DRAXEN-Ai?&style=social"></a>
+<a href="https://github.com/dullar/DRAXEN-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dullar255/DRAXEN-Ai?style=social"></a>
+<a href="https://github.com/dullar255/DRAXEN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/dullar255/DRAXEN-Ai?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SHEIKH-ALI-2402/SHEIKH-ALI-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/dullar255/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=ALI%20AHMAD%20FAROOQ&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=DRAXEN%20%20&color=pink&style=plastic" alt="Developer Badge">
 </p>
 <p align='center'>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-MD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/DRAXEN-Ai/count.svg" /><br>DRAXEN-Ai</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/fork)
+[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20-FF00F8)](https://github.com/dullar255/DRAXEN-Ai/fork)
 
 ---------------- 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐂𝐎𝐍𝐓𝐀𝐂𝐓+𝐌𝐄+𝐅𝐎𝐑+𝐇𝐄𝐋𝐏)](https://git.io/typing-svg)
 
-[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
+[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+255716945971?text=*ʜɪɪ+DRAXEN+Ai+🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DRAXEN-Ai-ᴍᴅ+ʀᴇᴘᴏ!!*)
 
 ----------------
 
@@ -55,7 +55,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="left">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-darkgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-darkgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10)
 </div>
 
 ----------------
@@ -64,7 +64,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="left">
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-Youtube%20Channel-darkblue?style=for-the-badge&logo=youtube)](https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-Youtube%20Channel-darkblue?style=for-the-badge&logo=youtube)](https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG)
 </div>
 
 ----------------
@@ -77,7 +77,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 </a>
 
 <p align="left">
-<a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
+<a href='https://draxen-ai-session-id.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FFC900?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -87,7 +87,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/dullar255/DRAXEN-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------------
 
@@ -132,13 +132,13 @@ jobs:
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+DRAXEN" alt="">
 <hr>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0097&center=true&vCenter=true&multiline=false&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0097&center=true&vCenter=true&multiline=false&lines=𝐎𝐖𝐍𝐄𝐑+:+DRAXEN)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![ALI AHMAD FAROOQ](https://i.ibb.co/yc3j9Qdw/8490.jpg)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD)
+| [![DRAXEN ]()](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
