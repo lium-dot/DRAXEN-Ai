@@ -139,6 +139,6 @@ jobs:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0097&center=true&vCenter=true&multiline=false&lines=𝐎𝐖𝐍𝐄𝐑+:+DRAXEN)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![DRAXEN ]()](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD)
+| [![DRAXEN ](https://files.catbox.moe/tmmvub.jpg)](https://github.com/dullar255/DRAXEN-Ai) | [![DRAXEN](https://files.catbox.moe/tmmvub.jpg)](https://github.com/dullah255)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
