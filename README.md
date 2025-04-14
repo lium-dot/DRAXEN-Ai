@@ -80,7 +80,7 @@ DRAXEN Ai
 
 
 <p align="left">
-<a href='https://pair-code-3-xnfu.onrender.com'target="_blank">
+<a href='https://draxen-ai-1-hhrq.onrender.com'target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FFC900?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
