@@ -17,7 +17,7 @@ cmd({
   }  
 
   try {  
-    await reply("```🔍 Checking for SHEIKH-ALI-MD updates...```\n");  
+    await reply("```🔍 Checking for DRAXEN-Ai updates...```\n");  
       
     // Get latest commit from GitHub  
     const { data: commitData } = await axios.get("https://api.github.com/repos/XdTechPro/KHAN-MD/commits/main");  
@@ -33,10 +33,10 @@ cmd({
     }  
 
     if (latestCommitHash === currentHash) {  
-      return reply("```✅ Your SHEIKH-ALI-MD bot is already up-to-date!```\n");  
+      return reply("```✅ Your DRAXEN-Ai bot is already up-to-date!```\n");  
     }  
 
-    await reply("```SHEIKH-ALI-MD Bot Updating...🚀```\n");  
+    await reply("```DRAXEN-Ai Bot Updating...🚀```\n");  
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
@@ -53,7 +53,7 @@ cmd({
     await reply("```🔄 Replacing files...```\n");  
       
     // Copy updated files, skipping config.js and app.json  
-    const sourcePath = path.join(extractPath, "SHEIKH-ALI-MD-main");  
+    const sourcePath = path.join(extractPath, "DRAXEN-Ai-main");  
     const destinationPath = path.join(__dirname, '..');  
     copyFolderSync(sourcePath, destinationPath);  
 
