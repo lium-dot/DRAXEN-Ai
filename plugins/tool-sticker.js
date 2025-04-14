@@ -1,4 +1,4 @@
-// coded by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡
+// coded by DRAXEN Ai 🤎
 
 const path = require("path");
 const { fetchGif, fetchImage, gifToSticker } = require('../lib/sticker-utils');
