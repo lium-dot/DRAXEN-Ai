@@ -25,7 +25,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://https://draxen-ai-session-id.onrender.com/pair?phone=${q}`);
+        const response = await fetch(`https://drexen-pair-code-2e87c8f59fda.herokuapp.com/pair?phone=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
