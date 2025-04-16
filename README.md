@@ -235,8 +235,4 @@ Easily share images, videos, GIFs, and more with your contacts or groups.
 
 This repository, **DRAXEN-Ai**, is the original work of [🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai𝄟⃝](https://github.com/dullar255). Unauthorized copying, modification, or use of this code without permission is strictly prohibited. If you want to use this code, make sure to provide proper credits and contact the owner for authorization.
 
-## ❌ Unauthorized Use Penalties:
-- Legal actions may be taken against those who copy or modify the code without permission.
-- We have systems in place to track unauthorized usage.
 
-Please respect the developer's work and avoid copying this code without prior consent. **Play fair, code responsibly!**
