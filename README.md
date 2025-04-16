@@ -150,8 +150,12 @@
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Deploy the bot.
-    <br>
-    <a href='https://heroku.com/deploy' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/Deploy To Heroku-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    ----------------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
+<p align="left">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/DRAXEN-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ### ☁️ 4. Deploy to Koyeb
 
