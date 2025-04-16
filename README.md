@@ -147,7 +147,7 @@
 
 1. If you don't have a Heroku account, create one.
     <br>
-    <a href='https://drexen-pair-code-2e87c8f59fda.herokuapp.com' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Deploy the bot.
     <br>
     <a href='https://heroku.com/deploy' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/Deploy To Heroku-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
