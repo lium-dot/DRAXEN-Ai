@@ -23,13 +23,13 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdallahsalimjuma%2FDRAXEN-Ai&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/abdallahsalimjuma?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/abdallahsalimlabel=Followers&style=social"></a>
-<a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/abdallahsalimjuma/DRAXE-Ai?&style=social"></a>
-<a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/forks/abdallahsalimjuma/DRAXEN-Ai?style=social"></a>
-<a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/abdallahsalimjuma/DRAXEN-Ai?label=Watching&style=social"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdullar255%2FDRAXEN-Ai&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+ <a href="https://github.com/dullar255?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/dullar255label=Followers&style=social"></a>
+<a href="https://github.com/dullar255/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/dullar255/DRAXE-Ai?&style=social"></a>
+<a href="https://github.com/dullar255/DRAXEN-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/forks/abdallahsalimjuma/DRAXEN-Ai?style=social"></a>
+<a href="https://github.com/dullar255/DRAXEN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/abdallahsalimjuma/DRAXEN-Ai?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/abdallahsalimjuma/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/dullar255/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=DRAXEN%20%20&color=pink&style=plastic" alt="Developer Badge">
 </p>
@@ -41,13 +41,13 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20-FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
+[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20-FF00F8)](https://github.com/dullar255/DRAXEN-Ai/fork)
 
 ---------------- 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐂𝐎𝐍𝐓𝐀𝐂𝐓+𝐌𝐄+𝐅𝐎𝐑+𝐇𝐄𝐋𝐏)](https://git.io/typing-svg)
 
-[![https://telegram.me/Abdallahsalim](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+255716945971?text=*ʜɪɪ+DRAXEN+Ai--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
+[![https://telegram.me/dullar255](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+255716945971?text=*ʜɪɪ+DRAXEN+Ai--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
 
 ----------------
 
@@ -87,7 +87,7 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/DRAXEN-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/dullar255/DRAXEN-Ai/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------------
 
@@ -139,6 +139,6 @@ jobs:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0097&center=true&vCenter=true&multiline=false&lines=𝐎𝐖𝐍𝐄𝐑+:+DRAXEN)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![DRAXEN ](https://files.catbox.moe/tmmvub.jpg)](https://github.com/abdallahsalimjuma/DRAXEN-Ai) | [![DRAXEN](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/abdallahsalimjuma/DRAXEN-Ai)
+| [![DRAXEN ](https://files.catbox.moe/tmmvub.jpg)](https://github.com/dullar255/DRAXEN-Ai) | [![DRAXEN](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/abdallahsalimjuma/DRAXEN-Ai)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
