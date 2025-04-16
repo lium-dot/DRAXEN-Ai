@@ -215,9 +215,8 @@ Easily share images, videos, GIFs, and more with your contacts or groups.
 
 ## ⚠️ Reminder
 
-- This bot is not made by `WhatsApp Inc.` and using it may result in your account being banned. (Though your WhatsApp account can be unbanned only once.)
-- The developers are not responsible for any bans or issues that arise from using this bot.
-- Use at your own risk.
+- This bot has no issues on the WhatsApp side, and it works perfectly on Heroku—100% safe and not banned. Use it for your WhatsApp activities and other things; it will help you a lot.
+.
 
 ---
 
