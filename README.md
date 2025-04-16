@@ -1,23 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=DRAXEN-Ai" alt="Typing SVG" /></a>
-  </p>
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
-
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=DRAXEN+Ai+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-------------
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DRAXEN%20Ai%20%20%20OF%20%20OWNER%20DRAXEN%20%20&image=https://files.catbox.moe/tmmvub.jpg?v=4&backgroundColor=%23ecf0f1&github=DRAXEN-Ai-2402&pattern=leaf&colorPattern=%23eaeaea"/>
-
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+DRAXEN+𝐀i+...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+DRAXEN-Ai..."
-
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </p>
