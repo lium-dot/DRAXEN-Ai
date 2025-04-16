@@ -1,4 +1,14 @@
+# MALIK-MD
 
+<p align="center">
+  <a href="https://youtu.be/F3Cgi8ied1o">
+    <img alt="MALIK-MD" height="300" src="https://files.catbox.moe/b170la.jpg">
+  </a>
+</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+MALIK-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MALIK+SAHAB;PUBLIC+RELEASED+DATE;01/09/2024" alt="Typing SVG" />
+  </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </p>
