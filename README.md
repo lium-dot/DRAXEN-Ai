@@ -72,7 +72,7 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
 
 <p align="left">
-<a href=https://drexen-pair-code-2e87c8f59fda.herokuapp.com' target="_blank">
+<a href='https://drexen-pair-code-2e87c8f59fda.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
