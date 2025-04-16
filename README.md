@@ -168,7 +168,7 @@
 <div align="center">
   <a href="https://github.com/dullar255"><img src="https://files.catbox.moe/tmmvub.jpg" width="200" height="200" alt="Developer"></a>
 
-  **🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai**  
+  **🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai𝄟⃝]**  
   _Owner, Developer, Bug Fixer, Maintainer, Updates_
 </div>
 
@@ -228,8 +228,8 @@ Easily share images, videos, GIFs, and more with your contacts or groups.
 ## 📞 Contact
 
 <p align="left">
-  <a href="mailto:akk728492@gmail.com"><img title="Contact Developer" src="https://img.shields.io/badge/Email Developer-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/255716945971?text=Hi+𓆩ꨄ︎𓆪+𝐌𝐚𝐥𝐢𝐤+◆+𝗦𝗮𝗛𝗮𝗕+𓆩ᥫ᭡𓆪...+I+need+some+help+in+DRAXEN-Ai"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="mailto:lopezfesto@gmail.com"><img title="Contact Developer" src="https://img.shields.io/badge/Email Developer-black?style=for-the-badge&logo=Gmail"></a>
+  <a href="https://wa.me/255716945971?text=Hi+𓆩ꨄ︎𓆪+Draxen+◆+Ai+𓆩ᥫ᭡𓆪...+I+need+some+help+in+DRAXEN-Ai"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 # ⚠️ WARNING ⚠️
