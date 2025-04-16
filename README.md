@@ -154,10 +154,10 @@
 
 ### ☁️ 4. Deploy to Koyeb
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FMALIK-MD%2FMALIK-MD&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDRAXEN-Ai%2FDRAXEN-Ai&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
 
 <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/arkhan998/MALIK-MD">
+  <a href="https://render.com/deploy?repo=https://github.com/dullar255/DRAXEN">
     <img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
   </a>
 </p>
@@ -166,9 +166,9 @@
 ## 🦋 Developers
 
 <div align="center">
-  <a href="https://github.com/arkhan998"><img src="https://telegra.ph/file/6e0ad047cc88c1db5cc2c.jpg" width="200" height="200" alt="Developer"></a>
+  <a href="https://github.com/dullar255"><img src="https://files.catbox.moe/tmmvub.jpg" width="200" height="200" alt="Developer"></a>
 
-  **🦋⃟ᴠͥɪͣᴘͫ✮⃝🇲ᗩしᏆᏦ 🇸αнαв𝄟⃝**  
+  **🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai**  
   _Owner, Developer, Bug Fixer, Maintainer, Updates_
 </div>
 
@@ -229,12 +229,12 @@ Easily share images, videos, GIFs, and more with your contacts or groups.
 
 <p align="left">
   <a href="mailto:akk728492@gmail.com"><img title="Contact Developer" src="https://img.shields.io/badge/Email Developer-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/923306144630?text=Hi+𓆩ꨄ︎𓆪+𝐌𝐚𝐥𝐢𝐤+◆+𝗦𝗮𝗛𝗮𝗕+𓆩ᥫ᭡𓆪...+I+need+some+help+in+MALIK-MD"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://wa.me/255716945971?text=Hi+𓆩ꨄ︎𓆪+𝐌𝐚𝐥𝐢𝐤+◆+𝗦𝗮𝗛𝗮𝗕+𓆩ᥫ᭡𓆪...+I+need+some+help+in+DRAXEN-Ai"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 # ⚠️ WARNING ⚠️
 
-This repository, **MALIK-MD**, is the original work of [🦋⃟ᴠͥɪͣᴘͫ✮⃝🇲ᗩしᏆᏦ 🇸αнαв𝄟⃝](https://github.com/arkhan998). Unauthorized copying, modification, or use of this code without permission is strictly prohibited. If you want to use this code, make sure to provide proper credits and contact the owner for authorization.
+This repository, **DRAXEN-Ai**, is the original work of [🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai𝄟⃝](https://github.com/dullar255). Unauthorized copying, modification, or use of this code without permission is strictly prohibited. If you want to use this code, make sure to provide proper credits and contact the owner for authorization.
 
 ## ❌ Unauthorized Use Penalties:
 - Legal actions may be taken against those who copy or modify the code without permission.
