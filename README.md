@@ -69,7 +69,7 @@
       </tr>
       <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Downloader Commands</td>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Download various types of content from the internet</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Download gpt types of content from the internet</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">✅</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd; text-align: center;">1.0</td>
       </tr>
