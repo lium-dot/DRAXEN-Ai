@@ -236,8 +236,6 @@ Easily share images, videos, GIFs, and more with your contacts or groups.
   <a href="https://wa.me/255716945971?text=Hi+𓆩ꨄ︎𓆪+Draxen+◆+Ai+𓆩ᥫ᭡𓆪...+I+need+some+help+in+DRAXEN-Ai"><img title="WhatsApp Support" src="https://img.shields.io/badge/WhatsApp Developer-red?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-# ⚠️ WARNING ⚠️
 
-This repository, **DRAXEN-Ai**, is the original work of [🦋⃟ᴠͥɪͣᴘͫ✮⃝DRAXEN Ai𝄟⃝](https://github.com/dullar255). Unauthorized copying, modification, or use of this code without permission is strictly prohibited. If you want to use this code, make sure to provide proper credits and contact the owner for authorization.
 
 
