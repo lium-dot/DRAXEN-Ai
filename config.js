@@ -5,19 +5,19 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "DRAXEN-Ai~RNgEzBLC#QYpbAzgJ_9q_kCrliqFwR6mo0uO5HwJnPIcNXIkVlR0",
+SESSION_ID: process.env.SESSION_ID || "DRAXEN-Ai~NIxgVYQY#j8Lg3Wi0CMCTsnglUrlY07gFw2Ap26gP-qRYT5b1lcU",
 // add your Session Id 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*ʏᴏᴜʀ sᴛᴀᴛᴜs sᴇᴇɴ ᴊᴜsᴛ ɴᴏᴡ ʙʏ ♥️★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫👑*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Ꭿℒℒℰℕ ℐЅ ᏇᎯTℂℋℐℕᎶ👀ℐℕ ᎶℋᎾЅT ℳᎾⅅℰ👻",
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "👻T̥ͦO̥ͦX̥ͦI̥ͦC̥ͦ M͎D͎ 👻",
+BOT_NAME: process.env.BOT_NAME || "☠️𝐀𝐋𝐋𝐄𝐍 𝐅𝐈𝐍𝐄𝐒𝐓☠️",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫",
 // type sticker pack name 
@@ -59,7 +59,7 @@ PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
-READ_CMD: process.env.READ_CMD || "false",
+READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
 DEV: process.env.DEV || "254758443111",
 //replace with your whatsapp number        
